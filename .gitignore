@@ -1,0 +1,4 @@
+#ignore virtual environment
+venv/
+sentiment_analysis.pkl
+vectorizer.pkl
