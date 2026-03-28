@@ -128,7 +128,8 @@ Use my trained model (lgr_model) to predict the outcomes for the test data (X_te
 ### Evaluate Logistic Regression model
 
 
-<img width="1171" height="169" alt="accuracy_lgr" src="https://github.com/user-attachments/assets/e1dde99c-a64f-4015-b0ef-e6db6e52bc63" />
+<img width="828" height="198" alt="Accuracy_lgr" src="https://github.com/user-attachments/assets/dc2192bc-8394-4fbd-a760-6dfce627ccfd" />
+
 
 
 Your model correctly predicted 79% of all cases. Good, but accuracy alone can be misleading — that’s why the confusion matrix matters.
@@ -149,8 +150,8 @@ Your model correctly predicted 79% of all cases. Good, but accuracy alone can be
 
 
 
-<img width="1258" height="362" alt="cm1_lgr" src="https://github.com/user-attachments/assets/bc002e5a-c430-4a36-aaca-9218cca8bd55" />
 
+<img width="1049" height="351" alt="cmi_lgr" src="https://github.com/user-attachments/assets/c1c23deb-371b-4000-b693-c28bf6dc1ba9" />
 
 
 
@@ -199,7 +200,7 @@ For getting better results I want to train the data with another model. I chose 
 
 Training Multinomial Naive Bayes model.
 
-<img width="1139" height="338" alt="train_nb" src="https://github.com/user-attachments/assets/5734a0be-df68-440f-b7ff-ed26642c3e36" />
+<img width="1147" height="343" alt="train_nb" src="https://github.com/user-attachments/assets/e8211591-1f2d-4ed1-969b-9fda82e811ef" />
 
 
 using trained model (NB_model) to predict the outcomes for the test data (X_test), and store those predictions in Y_pred.
